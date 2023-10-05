@@ -95,7 +95,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <urlhttp://52.14.84.121:8181/mylandmarktech/repository/teslaa-webapp/</url>
+	      <url>http://52.14.84.121:8181/mylandmarktech/repository/teslaa-webapp/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
